@@ -6,7 +6,7 @@
 | --- | ----------- |
 | **Objective** | - Create Serverless REST API using AWS Lambda and Amazon API Gateway <br>- Perform API CRUD operations without having to manage infrastructure with efficient code snippets known as ‘Functions’ in AWS lambda |
 | **Approach** | - Setup a Lambda by creating function and testing the function <br>- API Integration of lambda function with Amazon API Gateway and test using Postman<br>- Add trigger for Lambda function |
-| **Impact** | - Serverless REST API using AWS Lambda and Amazon API Gateway that is inherently scalable</br>- Increase operational efficiency of CRUD operations |
+| **Impact** | - Successfully created a serverless REST API using AWS Lambda and Amazon API Gateway that is inherently scalable</br>- Operational efficiency of CRUD operations is increased effectively |
 <br>
 
 **Primary Technology:** AWS Lambda Service, Amazon API gateway, Postman
